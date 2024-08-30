@@ -1,0 +1,3 @@
+C:/Users/bonas/Documents/cpp/SortingHat/cmake-build-debug/CMakeFiles/SortingHat.dir
+C:/Users/bonas/Documents/cpp/SortingHat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bonas/Documents/cpp/SortingHat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
